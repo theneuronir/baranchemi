@@ -1,0 +1,1 @@
+import{_ as o,o as d,c as t,a as s,r}from"./C7tzDQXV.js";const c={},l={class:"uk-child-width-1-2@m uk-flex-middle uk-grid","uk-grid":""};function n(e,a){return d(),t("div",l,[s("div",null,[r(e.$slots,"first")]),s("div",null,[r(e.$slots,"second")])])}const u=o(c,[["render",n]]);export{u as default};
